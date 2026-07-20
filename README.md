@@ -2,6 +2,9 @@
 
 A beautiful, interactive, and media-rich web template to celebrate birthdays with custom designs, animations, and music. Perfect for sending a personalized digital card to a friend or loved one.
 
+👉 **[Live Preview Demo](https://ecxlipze.github.io/Birthday-Template/)**
+
+
 ## ✨ Features
 
 - **🌸 Interactive UI & Micro-animations**: Soft gradients, rotating decorative items, and floating elements styled with modern CSS features.
